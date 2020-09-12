@@ -1,0 +1,3 @@
+case: snake
+dir: ./domain
+output: ./gateway/mocks
